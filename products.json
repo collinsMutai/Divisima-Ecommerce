@@ -1,0 +1,71 @@
+{
+  "latest": [
+    {
+      "price": "35,00",
+      "name": "Flamboyant Pink Top",
+      "img": "./img/product/1.jpg"
+    },
+    {
+      "price": "35,00",
+      "name": "Black and White Stripes Dress",
+      "img": "./img/product/2.jpg"
+    },
+    {
+      "price": "45,00",
+      "name": "Flamboyant Grey Top",
+      "img": "./img/product/3.jpg"
+    },
+    {
+      "price": "85,00",
+      "name": "Yellow and White Stripes Dress",
+      "img": "./img/product/4.jpg"
+    },
+    {
+      "price": "95,00",
+      "name": "Flamboyant Green Top",
+      "img": "./img/product/5.jpg"
+    }
+  ],
+  "products": [
+    {
+      "price": "35,00",
+      "name": "Flamboyant Pink Top",
+      "img": "./img/product/1.jpg"
+    },
+    {
+      "price": "35,00",
+      "name": "Black and White Stripes Dress",
+      "img": "./img/product/2.jpg"
+    },
+    {
+      "price": "45,00",
+      "name": "Flamboyant Grey Top",
+      "img": "./img/product/3.jpg"
+    },
+    {
+      "price": "85,00",
+      "name": "Yellow and White Stripes Dress",
+      "img": "./img/product/4.jpg"
+    },
+    {
+      "price": "95,00",
+      "name": "Flamboyant Green Top",
+      "img": "./img/product/5.jpg"
+    },
+    {
+      "price": "15,00",
+      "name": "Flamboyant Green Top",
+      "img": "./img/product/6.jpg"
+    },
+    {
+      "price": "95,00",
+      "name": "Flamboyant Green Top",
+      "img": "./img/product/7.jpg"
+    },
+    {
+      "price": "95,00",
+      "name": "Flamboyant Green Top",
+      "img": "./img/product/8.jpg"
+    }
+  ]
+}
